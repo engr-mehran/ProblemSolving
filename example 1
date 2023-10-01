@@ -1,6 +1,0 @@
-class Student:
-
-    def __init__(self, name, roll_no, fee):
-        self.name = name
-        self.roll_no = roll_no
-        self.fee = fee
